@@ -9,5 +9,5 @@ A work-in-progress example of how to create a simple AUv3 with [AudioKit](https:
 - Currently researching on ways to customize the component description and add more effects inside one Audio Unit
 - Some of the parameters don't display right as you'll notice below. Working on fixing that.
 
-### AutoWah Node Instantiated as AUv3 inside Logic Pro X
+### AutoWah Node Instantiated as AUv3 Inside Logic Pro X
 ![screenshot](docs/screenshot.png)
