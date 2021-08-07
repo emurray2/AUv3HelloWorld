@@ -1,6 +1,6 @@
 # AUv3HelloWorld
  
-A work-in-progress example of how to create an AUv3 with [AudioKit](https://github.com/AudioKit)
+A work-in-progress example of how to create a simple AUv3 with [AudioKit](https://github.com/AudioKit)
 
 # Notes: 
 - This example takes many shortcuts and is not meant to be used in production. It's more of a tool to help others learn.
