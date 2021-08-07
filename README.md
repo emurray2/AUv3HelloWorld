@@ -8,3 +8,4 @@ A work-in-progress example of how to create an AUv3 with [AudioKit](https://gith
 - The component description of the Audio Unit needs to match that of the AudioKit Audio AudioUnit it wraps.
 - Currently researching on ways to customize the component description and add more effects
 
+![screenshot](docs/screenshot.png)
